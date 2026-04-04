@@ -11,6 +11,8 @@ public class Main {
         Account Mateus = new Account();
 
         while (true) {
+            Utilities.ClearScreen();
+
             System.out.println(Utilities.ANSI.BOLD + "=== LiveBank ===" + Utilities.ANSI.RESET);
             System.out.println(Utilities.ANSI.BOLD_GREEN + "1. Add money" + Utilities.ANSI.RESET);
             System.out.println(Utilities.ANSI.BOLD_YELLOW + "2. To transfer money" + Utilities.ANSI.RESET);
