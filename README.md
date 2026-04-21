@@ -14,7 +14,7 @@ The migration to Rust brings three fundamental pillars to LiveBank:
 
 ---
 
-## 🛠️ Tecnologias / Technologies
+## 🛠️ Technologies
 
 - **Language:** Rust (Latest Stable)
 - **Framework:** Axum / Tokio (Async Runtime)
@@ -27,8 +27,8 @@ The migration to Rust brings three fundamental pillars to LiveBank:
 # Clone the repository
 git clone [https://github.com/MateusSoaresL/LiveBank.git](https://github.com/MateusSoaresL/LiveBank.git)
 
-# Entre na pasta / Enter the folder
+# Enter the folder
 cd LiveBank
 
-# Compile e rode / Build and run
+# Build and run
 cargo run --release
